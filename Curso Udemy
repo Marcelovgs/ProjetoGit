@@ -59,5 +59,71 @@ e postarei aqui abaixo todo o meu aprendizado.
     </body>
     
 </html>  
+Pagina Home ^
 
-Pagina Home
+Abaixo começa quem somos.
+
+<!doctype html>
+
+<html>
+    <head>
+        <title>UNES - Quem somos</title>
+        <meta charset="utf-8">
+        
+     </head>
+
+    <body background="C:\Users\Marcelo\Documents\1abc/fundo2.png">
+        
+          <table border="0" width="900" align="center">
+
+                <tr>
+
+                        <td height="89"> <img src="C:\Users\Marcelo\Documents\1abc/logo.png"> </td>
+                        <td href="">
+                            <a href="index.html">HOME |</a>
+                            <a href="quem-somos.html">QUEM SOMOS |</a>
+                            <a href="contato.html">CONTATO |</a>
+                            </td>
+
+                </tr>
+                
+                        <td colspan="2">
+
+                            <h2>Quem somos</h2>
+                            <p>
+                                Lorem <strong> ipsum dolor </strong> sit <em> amet, </em> consectetur adipiscing elit. Nam vestibulum est vitae pellentesque maximus. Ut volutpat, mauris ac gravida auctor, nunc metus placerat justo, at luctus velit erat eget leo. Duis eget mauris id mauris accumsan dapibus ac non libero. Pellentesque id sagittis magna, sed tincidunt turpis. Mauris ipsum erat, suscipit eget malesuada eget, dapibus a justo. Morbi ut ipsum quis mauris tincidunt dignissim vitae eget risus. Quisque ac volutpat ante. Proin ut tincidunt ligula. Nam suscipit magna in arcu tincidunt, ac interdum erat convallis. In fringilla orci lacinia, euismod mauris quis, porta eros. Praesent elementum mattis magna non suscipit.
+                            </p>
+                                <h2> 5 motivos para estudar </h2>
+                                <ol>
+                                    <li>material sempre atualizado</li>
+                                    <li>tables em sala de aula</li>
+                                    <li>professores renomados</li>
+                                    <li>universisade bem avaliada</li>
+                                    <li> ótima localização</li>
+                                </ol>
+                                    <hr>
+                                <h2> objetivos </h2>
+                            <p>
+                                Lorem <strong> ipsum dolor </strong> sit <em> amet, </em> consectetur adipiscing elit. Nam vestibulum est vitae pellentesque maximus. Ut volutpat, mauris ac gravida auctor, nunc metus placerat justo, at luctus velit erat eget leo. Duis eget mauris id mauris accumsan dapibus ac non libero. Pellentesque id sagittis magna, sed tincidunt turpis. Mauris ipsum erat, suscipit eget malesuada eget, dapibus a justo. Morbi ut ipsum quis mauris tincidunt dignissim vitae eget risus. Quisque ac volutpat ante. Proin ut tincidunt ligula. Nam suscipit magna in arcu tincidunt, ac interdum erat convallis. In fringilla orci lacinia, euismod mauris quis, porta eros. Praesent elementum mattis magna non suscipit.
+                            </p>
+
+                        </td>
+                    </tr>
+
+                        <tr>
+                            <td colspan="2" align="center">
+                                <h4> Todos os direitos reservados</h4>
+                            </td>
+
+                        </tr>
+                </tr>
+
+
+
+          </table>
+       
+    </body>
+    
+</html>
+
+Abaixo começa contatos.
